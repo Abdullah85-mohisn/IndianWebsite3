@@ -14,7 +14,7 @@ const HomePage = () => {
   return (
     <>
       <div className="corner-images">
-        <NavLink to='/DailyOrders' target="_blank" rel="noopener noreferrer">
+        <NavLink to='/DailyOrders' rel="noopener noreferrer">
           <img
             src="https://cdn.prod.website-files.com/66fbb785f478abc4a634d141/670159e0de99bb801f41fa09_2024100369.png"
             alt="Logo 1"
